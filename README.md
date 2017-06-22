@@ -5,7 +5,7 @@ A way to replace multiple strings inside a single string with one command.
 
 Usage
 ===
-```
+```js
 let longString = 'This is a really long string, and I want to replace a few sub strings here';
 
 let replaceRules = {
