@@ -1,0 +1,11 @@
+{
+  "name": "multi-replace",
+  "version": "0.1.0",
+  "description": "Replace multiple strings inside a single string with one command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gilly Barr",
+  "license": "ISC"
+}
